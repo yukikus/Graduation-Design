@@ -1,4 +1,4 @@
-​      A desktop e-book reader has been implemented based on the Python language, with main features
+​        A desktop e-book reader has been implemented based on the Python language, with main features
 
 including format conversion, categorization management, and reading. By parsing EPUB files, their 
 
